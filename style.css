@@ -1,0 +1,22 @@
+body{
+  padding: 50px 25%;
+  font-size: 30px;
+}
+
+input{
+  width: 100%;
+  padding: 10px;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+table,
+tbody,
+tr{
+  width: 100%;
+}
+
+td:nth-child(1){
+  text-align: right;
+  padding-right: 10px;
+}
